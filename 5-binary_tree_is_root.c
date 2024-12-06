@@ -9,4 +9,8 @@
 
 int binary_tree_is_root(const binary_tree_t *node)
 {
-	new
+	if (node == NULL)n
+		return (1);
+
+	if (node 
+	return (0);
